@@ -52,3 +52,4 @@ Le operazioni includono:
 - Corrado Valentina
 
 ## Licenza
+I dati di input e il codice di output (incluso in questo Notebook) sono rilasciati sotto licenza [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
