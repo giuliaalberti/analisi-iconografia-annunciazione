@@ -50,3 +50,5 @@ Le operazioni includono:
 ## Responsabili
 - Alberti Giulia
 - Corrado Valentina
+
+## Licenza
