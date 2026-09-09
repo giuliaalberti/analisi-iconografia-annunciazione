@@ -12,7 +12,7 @@ La nostra ricerca si è focalizzata sull’analisi del soggetto iconografico sac
 2. **Analisi ed Evoluzione Dimensionale dell'_Annunciazione_**: il sedicesimo secolo non solo detiene il primato per il numero di attestazioni, ma mostra anche la più elevata dispersione dimensionale delle opere, variando da formati contenuti (sotto i $20.000 \text{ cm}^2$) fino a una monumentale opera di oltre $90.000 \text{ cm}^2$).
 3. **I Luoghi con Maggiore Frequenza dell'_Annunciazione_**: le **Gallerie dell'Accademia di Venezia** e la **Pinacoteca Nazionale di Bologna** sono i due musei che conservano il maggior numero di opere con soggetto iconografico dell'_Annunciazione_.
 
-l progetto è stato realizzato nell'ambito del corso Digital Humanities e Data Management per I Beni Culturali - Informatica per I Beni Culturali 2025-2026 dell'Università di Bologna.
+Il progetto è stato realizzato nell'ambito del corso Digital Humanities e Data Management per I Beni Culturali - Informatica per I Beni Culturali 2025-2026 dell'Università di Bologna.
 
 ## Fonti di dati 
 I dati in input sono costituiti da un file CSV di 229.3+ KB scaricato da una repository GitHub del corso Digital Humanities e Data Management per I Beni Culturali - Informatica per I Beni Culturali dell'anno 2025/2026 (https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/lispod/data.csv).
